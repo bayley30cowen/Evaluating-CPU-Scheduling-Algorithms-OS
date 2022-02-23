@@ -1,0 +1,10 @@
+mkdir -p classes
+javac -d classes ../src/*.java
+
+cd classes
+
+#####
+#EXPERIMENT 1
+#####
+#input generators for seed1
+java InputGenerator ../../experiment1/Seed1/input_parameters1.prp ../../experiment1/Seed1/input8.in
