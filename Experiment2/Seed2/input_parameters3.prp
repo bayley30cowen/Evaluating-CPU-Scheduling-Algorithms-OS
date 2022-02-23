@@ -1,0 +1,7 @@
+seed=22222222
+meanInterArrival=150.0
+meanCpuBurst=15.0
+meanIOBurst=15.0
+meanNumberBursts=2.0
+numberOfProcesses=100
+staticPriority=0
